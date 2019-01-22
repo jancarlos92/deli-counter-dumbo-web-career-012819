@@ -5,8 +5,11 @@ end
 def line
   katz_deli.empty?
   if puts "line is currently empty"
-else puts "the line is currently serving: "
+
+  else puts "the line is currently serving: "
 end
+end
+
 
 def take_a_number(katz_deli,name)
     
