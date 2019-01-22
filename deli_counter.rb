@@ -24,4 +24,4 @@ def now_serving
   puts "currently serving #{katz_deli.pop}"
   
 end
-  
+end
