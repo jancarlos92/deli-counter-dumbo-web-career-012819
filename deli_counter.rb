@@ -15,11 +15,4 @@ def take_a_number(katz_deli,name)
     puts "Welcome, #{name}. You are number #{katz_delimap.with_index{ |x, i| i}}"
     
     end
-
-def now_serving
-  katz_deli.empty?
-  if
-    puts "There is nobody waiting to be served!"
-  else
-  puts "currently serving #{katz_deli.pop}"
 end
