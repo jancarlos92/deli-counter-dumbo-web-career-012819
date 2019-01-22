@@ -1,7 +1,6 @@
 katz_deli = []
 
 def line(array)
- array.empty? 
+ if array.empty? 
  
-  
 end
