@@ -1,9 +1,9 @@
 katz_deli = []
 
-def line
-  katz_deli.empty?
+def line(array)
+  array.empty?
   if puts "line is currently empty"
   
-  else puts "the line is currently serving: #{katz_deli.each do |name| puts "#{name}"
+  else puts "the line is currently serving: #{array.each do |name| puts "#{name}"
 end
 end
