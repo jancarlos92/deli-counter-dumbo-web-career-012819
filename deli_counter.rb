@@ -5,7 +5,7 @@ def line
   if puts "line is currently empty"
   
   elsif puts "the line is currently serving: #{katz_deli.each do |name| puts "#{name}"
-end
+
 end
 
 def take_a_number(katz_deli,name)
@@ -23,5 +23,5 @@ def now_serving
   else
   puts "currently serving #{katz_deli.pop}"
   
-end
+
 end
