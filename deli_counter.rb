@@ -22,7 +22,4 @@ def now_serving
     puts "There is nobody waiting to be served!"
   else
   puts "currently serving #{katz_deli.pop}"
-  
-
-end
 end
