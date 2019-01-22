@@ -1,6 +1,4 @@
-def katz_deli
-  []
-end
+katz_deli = []
 
 def line
   katz_deli.empty?
@@ -9,7 +7,6 @@ def line
   elsif puts "the line is currently serving: #{katz_deli.each do |name| puts "#{name}"
 end
 end
-
 
 def take_a_number(katz_deli,name)
     
